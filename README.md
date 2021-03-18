@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Sachiko!
 
-Front-end developer based in Vancouver.
+
+Front-end developer based in Vancouver
+
+**Skills**
 
 <!--
 **sachiko0811/sachiko0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
