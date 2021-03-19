@@ -2,7 +2,8 @@
 
 Front-end developer based in Vancouver
 
-- Linkedin
+- [Portfolio](https://www.sachikoyokoyama.com/)
+- [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
 
 **Skills**
 
