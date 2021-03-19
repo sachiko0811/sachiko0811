@@ -6,10 +6,7 @@ Front-end developer based in Vancouver
 
 **Skills**
 
-React.js
-HTML
-CSS/SCSS
-JavaScript
+React.js, HTML, CSS/SCSS, JavaScript
 
 <!--
 **sachiko0811/sachiko0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
