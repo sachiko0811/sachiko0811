@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Sachiko!
 
-
 Front-end developer based in Vancouver
+
+- Linkedin
 
 **Skills**
 React.js
