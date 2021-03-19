@@ -5,6 +5,7 @@ Front-end developer based in Vancouver
 - Linkedin
 
 **Skills**
+
 React.js
 HTML
 CSS/SCSS
