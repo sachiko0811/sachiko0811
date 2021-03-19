@@ -8,6 +8,8 @@ Front-end developer based in Vancouver
 **Skills**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40px" />
+
 <!--
 **sachiko0811/sachiko0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
