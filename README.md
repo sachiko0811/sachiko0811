@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sachiko!
 
-Front-end developer based in Vancouver
+React developer based in Vancouver
 
 - [Portfolio](https://www.sachikoyokoyama.com/)
 - [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
