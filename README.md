@@ -1,7 +1,5 @@
 
-<h2>I'm SACHIKO!</h2>
-React developer based in Vancouver
-
+<h2>I'm SACHIKO. React developer based in Vancouver!</h2>
 
 - [Portfolio](https://www.sachikoyokoyama.com/)
 - [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
