@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Sachiko!
 
+<h2>I'm SACHIKO!</h2>
 React developer based in Vancouver
 
 - [Portfolio](https://www.sachikoyokoyama.com/)
