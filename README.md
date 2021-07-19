@@ -1,5 +1,5 @@
 
-<h2>Front End Developer based in Vancouver!</h2>
+<h2>Frontend Developer based in Vancouver!</h2>
 
 - [Portfolio](https://www.sachikoyokoyama.com/)
 - [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
